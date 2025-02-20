@@ -58,11 +58,6 @@ print("🧠 Response:", answer)
 ollama.change_model("mistral:7b")  # Switch to a different model
 ```
 
-### 5️⃣ **Run the Example Script**
-Simply run:
-```bash
-python ollama_manager.py
-```
 
 ---
 
