@@ -33,8 +33,6 @@ pip install openai pandas requests
 
 ### 1️⃣ **Initialize and Setup Ollama**
 ```python
-from ollama_manager import OllamaManager
-
 # Initialize Ollama with a default model
 ollama = OllamaManager(model="llama3.1:latest")
 ```
